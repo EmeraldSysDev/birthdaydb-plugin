@@ -1,2 +1,2 @@
 # birthdaydb-plugin
-Better birthdays plugin that saves in the cloud
+Better birthdays plugin that saves in the cloud.
